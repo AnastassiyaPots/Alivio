@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.header {
+    height: 85px;
+}
+.wrapper {
+    width: 1370px;
+    margin: 0 auto;
+
+}
+
+.first_logotype {
+    float: left;
+    margin-right: 170px;
+    margin-top: 31px;
+}
+
+.first_nav {
+    float: left;
+    margin-top: 31px;
+}
+
+.first_login {
+    float: right;
+    margin-top: 17px;
+}
+
+.first_login a {
+    margin-right: 55px;
+    margin-top: 13px;
+    display: inline-block;
+}
+
+.first_login .btn {
+    margin-top: 13px;
+}
+
+.first_nav ul {
+    list-style: none;
+}
+
+.first_nav ul li {
+    display: inline-block;
+    margin-right: 90px;
+}
+
+.first_nav ul li:last-of-type {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.first_nav a, .first_login a{
+    color: #292929;
+    text-decoration: none;
+}
+
+.first_login .btn {
+    background-color: #01996D;
+    padding: 13px 50px;
+    color: #FFF;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Slab', serif;
